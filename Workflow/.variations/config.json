@@ -1,0 +1,16 @@
+{
+  "dataVariationFileInfo": [
+    {
+      "filePath": ".variations\\Test Data_Indra Yanto.json",
+      "dataVariationType": "File"
+    },
+    {
+      "filePath": ".variations\\Test Data_Nedi Yasman.json",
+      "dataVariationType": "File"
+    },
+    {
+      "filePath": ".variations\\Test Data_Teguh Ardama.json",
+      "dataVariationType": "File"
+    }
+  ]
+}

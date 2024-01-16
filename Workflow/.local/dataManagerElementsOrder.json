@@ -1,0 +1,154 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Test Step/01. Indra Yanto.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "vBeforeS&Sequence_1",
+        "vAfterS&Sequence_1",
+        "vReact&Sequence_1",
+        "vStartTime&Sequence_1",
+        "vConfig&Sequence_1",
+        "vGetLoanID&Sequence_1",
+        "vDirectoryProject&Sequence_1",
+        "vColumnName&Sequence_1",
+        "vStatus&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "In_MainFlow",
+        "IO_React",
+        "NIK_KTP_Pelanggan",
+        "Test_Case_ID",
+        "No",
+        "ProcessName",
+        "WaitForReady"
+      ],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Test Step/02. Nedi Yasman.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "vBeforeS&Sequence_1",
+        "vAfterS&Sequence_1",
+        "vReact&Sequence_1",
+        "vStartTime&Sequence_1",
+        "vConfig&Sequence_1",
+        "vGetLoanID&Sequence_1",
+        "vDirectoryProject&Sequence_1",
+        "vColumnName&Sequence_1",
+        "vStatus&Sequence_1",
+        "vTanggalLahir&Sequence_1",
+        "vBulanLahir&Sequence_1",
+        "vTahunLahir&Sequence_1",
+        "vBulanMulaiMenempati&Sequence_1",
+        "vTahunMulaiMenempati&Sequence_1",
+        "vSpouseTanggalLahir&Sequence_1",
+        "vSpouseBulanLahir&Sequence_1",
+        "vSpouseTahunLahir&Sequence_1",
+        "vDateTanggalLahir&Sequence_1",
+        "vNama_Belakang&Sequence_1",
+        "vNama_Depan&Sequence_1",
+        "vNama_Tengah&Sequence_1",
+        "i&Sequence_1",
+        "vNamaLength&Sequence_1",
+        "vElementExist&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "No",
+        "Out_LoanID",
+        "In_MainFlow",
+        "IO_React",
+        "NIK_KTP_Pelanggan",
+        "Test_Case_ID"
+      ],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Test Step/03. Teguh Ardama.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "vBeforeS&Sequence_1",
+        "vAfterS&Sequence_1",
+        "vReact&Sequence_1",
+        "vStartTime&Sequence_1",
+        "vConfig&Sequence_1",
+        "vGetLoanID&Sequence_1",
+        "vDirectoryProject&Sequence_1",
+        "vColumnName&Sequence_1",
+        "vStatus&Sequence_1",
+        "vTanggalLahir&Sequence_1",
+        "vBulanLahir&Sequence_1",
+        "vTahunLahir&Sequence_1",
+        "vBulanMulaiMenempati&Sequence_1",
+        "vTahunMulaiMenempati&Sequence_1",
+        "vSpouseTanggalLahir&Sequence_1",
+        "vSpouseBulanLahir&Sequence_1",
+        "vSpouseTahunLahir&Sequence_1",
+        "vDateTanggalLahir&Sequence_1",
+        "vNama_Belakang&Sequence_1",
+        "vNama_Depan&Sequence_1",
+        "vNama_Tengah&Sequence_1",
+        "i&Sequence_1",
+        "vNamaLength&Sequence_1",
+        "vElementExist&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "No",
+        "Out_LoanID",
+        "In_MainFlow",
+        "IO_React",
+        "NIK_KTP_Pelanggan",
+        "Test_Case_ID"
+      ],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Framework/Config.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "dt_SettingsAndConstants&Sequence_19",
+        "Folder&Sequence_19",
+        "vEnvironment&Sequence_19"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "Config",
+        "io_React",
+        "out_StartTime",
+        "in_TestCaseID",
+        "out_DirectoryProject",
+        "in_OpenChrome",
+        "In_MainFlow"
+      ],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Framework/Foreground/Login MyPertamina.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "vAfter&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "in_URL",
+        "in_Username",
+        "in_Password",
+        "io_React",
+        "In_IsUsingReact"
+      ],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    }
+  ]
+}
